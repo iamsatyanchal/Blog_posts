@@ -1,7 +1,7 @@
 ---
-title: # 5 Common Mistakes to Avoid When Building a Website
+title: 5 Common Mistakes to Avoid When Building a Website
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1621743018966-29194999d736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwxNHx8c2V0dXB8ZW58MHx8fHwxNjc4Nzk4MTAy&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # 5 Common Mistakes to Avoid When Building a Website

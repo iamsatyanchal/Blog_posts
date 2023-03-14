@@ -1,7 +1,7 @@
 ---
-title: # The Pros and Cons of Using JavaScript Frameworks
+title: The Pros and Cons of Using JavaScript Frameworks
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1580894732444-8ecded7900cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwxNXx8Y29kaW5nfGVufDB8fHx8MTY3ODgyOTAzMw&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # The Pros and Cons of Using JavaScript Frameworks

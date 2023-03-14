@@ -1,7 +1,7 @@
 ---
-title: # How To Make Your Website More Accessible
+title: How To Make Your Website More Accessible
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1586325194227-7625ed95172b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHw0fHxoYWNraW5nfGVufDB8fHx8MTY3ODgyNjg2Nw&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # How To Make Your Website More Accessible

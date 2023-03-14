@@ -1,7 +1,6 @@
 ---
 title: # Introduction to React Router
 tags: Javascript, web-development, programming-blogs
-cover: https://textoverimage.moesif.com/image?image_url=https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRmbmdlrWZlbWU.jpg&overlay_color=452eb8ff&text=Introduction%20to%20React%20Router&text_size=128&y_align=middle&x_align=center
 domain: satyanchal.hashnode.dev
 ---
 

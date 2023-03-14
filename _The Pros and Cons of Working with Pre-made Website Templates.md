@@ -1,7 +1,7 @@
 ---
-title: # The Pros and Cons of Working with Pre-made Website Templates
+title: The Pros and Cons of Working with Pre-made Website Templates
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHw5fHxjb2Rpbmd8ZW58MHx8fHwxNjc4ODI5MDMz&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # The Pros and Cons of Working with Pre-made Website Templates

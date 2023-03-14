@@ -1,7 +1,7 @@
 ---
-title: # How to Improve Website Speed and Performance
+title: How to Improve Website Speed and Performance
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwyMXx8c3BlZWQlMjBjb2Rpbmd8ZW58MHx8fHwxNjc4ODI4OTA5&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # How to Improve Website Speed and Performance

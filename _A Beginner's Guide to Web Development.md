@@ -1,7 +1,7 @@
 ---
-title: # A Beginner's Guide to Web Development
+title: A Beginner's Guide to Web Development
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1596697939537-bf55495f7630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwyMnx8c2V0dXB8ZW58MHx8fHwxNjc4Nzk4MTAy&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # A Beginner's Guide to Web Development

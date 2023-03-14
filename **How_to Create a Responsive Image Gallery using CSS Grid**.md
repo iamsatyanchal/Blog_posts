@@ -1,7 +1,7 @@
 ---
-title: **How to Create a Responsive Image Gallery using CSS Grid**
+title: How to Create a Responsive Image Gallery using CSS Grid
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1626968361222-291e74711449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHw4fHxzZXR1cHxlbnwwfHx8fDE2Nzg3OTgxMDI&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 **How to Create a Responsive Image Gallery using CSS Grid**

@@ -1,7 +1,7 @@
 ---
-title: # Introduction to React Router
+title: Introduction to React Router
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1614624532983-4ce03382d63d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwxfHxzZXR1cHxlbnwwfHx8fDE2Nzg3OTgxMDI&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 ---
 

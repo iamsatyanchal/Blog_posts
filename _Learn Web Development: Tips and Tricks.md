@@ -1,7 +1,7 @@
 ---
-title: # Learn Web Development: Tips and Tricks
+title: Learn Web Development: Tips and Tricks
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1580894908361-967195033215?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwyM3x8c3BlZWQlMjBjb2Rpbmd8ZW58MHx8fHwxNjc4ODI4OTA5&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # Learn Web Development: Tips and Tricks

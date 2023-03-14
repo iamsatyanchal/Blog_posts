@@ -1,7 +1,7 @@
 ---
-title: # Creating Responsive Websites Using Bootstrap 
+title: Creating Responsive Websites Using Bootstrap 
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1611310102866-e7d3918cf473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwyNHx8c2V0dXB8ZW58MHx8fHwxNjc4Nzk4MTAy&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # Creating Responsive Websites Using Bootstrap 

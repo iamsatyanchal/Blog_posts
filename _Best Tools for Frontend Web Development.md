@@ -1,7 +1,7 @@
 ---
-title: # Best Tools for Frontend Web Development
+title: Best Tools for Frontend Web Development
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1633988354540-d3f4e97c67b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwyN3x8c2V0dXB8ZW58MHx8fHwxNjc4Nzk4MTAy&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # Best Tools for Frontend Web Development

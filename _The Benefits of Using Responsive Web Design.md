@@ -1,7 +1,7 @@
 ---
-title: # The Benefits of Using Responsive Web Design
+title: The Benefits of Using Responsive Web Design
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHwyNXx8Y29kaW5nfGVufDB8fHx8MTY3ODgyOTAzMw&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # The Benefits of Using Responsive Web Design

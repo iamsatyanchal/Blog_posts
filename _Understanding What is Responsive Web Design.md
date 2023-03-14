@@ -1,7 +1,7 @@
 ---
-title: # Understanding What is Responsive Web Design
+title: Understanding What is Responsive Web Design
 tags: javascript, web-development, programming-blogs
-cover: https://www.freelancinggig.com/blog/wp-content/uploads/2017/10/Programming-Language-for-Future.png
+cover: https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDExMjB8MHwxfHNlYXJjaHw2fHxjb2Rpbmd8ZW58MHx8fHwxNjc4ODI5MDMz&ixlib=rb-4.0.3&q=80&w=1080
 domain: satyanchal.hashnode.dev
 --- 
 # Understanding What is Responsive Web Design
